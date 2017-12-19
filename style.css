@@ -1,0 +1,88 @@
+.wrapper{
+    width:100%;
+    margin: 0 auto 0 auto;
+    background-image: url("https://wallpaperscraft.com/image/space_flight_sky_stars_82970_1920x1080.jpg");
+}
+
+.heading{
+  min-width:100%;
+  color:white;
+  padding:10px;
+  text-align:center;
+  font-family:Bookman Old Style;
+  font-size:25px;
+}
+
+.navigation{
+  text-align: left;
+  font-family:Bookman Old Style;
+}
+
+.button{
+  clear:both;
+  color:white;
+  border-radius:5px;
+  background:#1e2633;
+  height:30px;
+  width:150px
+  font-family:Bookman Old Style;
+  margin-left:20px;
+}
+
+.content{
+  min-height:750px;
+  background:rgba(255,255,255,0.6);
+  width:35%;
+  float:left;
+  border-style:double;
+  border-width:10px;
+  padding:5px;
+  margin:10px;
+  font-family:Bookman Old Style;
+}
+
+.subheader{
+  text-align:center;
+  font-size:30px;
+  padding-right:10px;
+  text-decoration:underline;
+}
+
+.paragraph{
+  text-align:center;
+  padding:5px;
+  font-size:15px;
+}
+
+.sidebar{
+  width:22%;
+  float:right;
+  background:rgba(255,255,255,0.6);
+  min-height: 750px;
+  padding:5px;
+  border-style:double;
+  border-width:10px;
+  margin:10px;
+  font-family:Bookman Old Style;
+  text-align:center;
+}
+
+.member-pic{
+  width:325px;
+  height:auto;
+}
+
+h3{
+  font-weight:bold;
+  text-decoration:underline;
+  font-size:20px;
+}
+
+.footer{
+  clear:both;
+  height:30px;
+  color:white;
+  padding:5px;
+  text-align: center;
+  font-family:Bookman Old Style;
+}
